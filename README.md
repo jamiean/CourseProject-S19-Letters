@@ -1,4 +1,4 @@
-# CourseProject-S19-Letters  
+# CourseProject-S19-Letters   
 
 This is course project of Juncheng An. <Spring 2019 - EECS 281: Data Structures and Algorithms - Project 1>.  
 
