@@ -1,0 +1,14 @@
+S
+8
+// Just a short example dictionary, all words of the same length.
+// Although these words are in alphabetical order, that is not
+// required.
+chip
+chop
+junk
+shin
+ship
+// it's a test case from the spec
+shop
+shot
+stop

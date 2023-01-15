@@ -1,0 +1,7 @@
+C
+3
+// only test for change and swap
+// route: hat - hot - sot - sob - sbo - bso
+h[ao]t
+so[tsb]
+sb!o

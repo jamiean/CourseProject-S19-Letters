@@ -1,0 +1,11 @@
+S
+6
+// different output for stack and queue mode
+// stack mode : boat bbat nbat
+// queue mode : boat bnat nbat
+boat
+bost
+bnat
+boss
+bbat
+nbat

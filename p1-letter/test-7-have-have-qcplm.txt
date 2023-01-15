@@ -1,0 +1,7 @@
+S
+4
+// begin word and end word are the same
+hat
+has
+have
+hav

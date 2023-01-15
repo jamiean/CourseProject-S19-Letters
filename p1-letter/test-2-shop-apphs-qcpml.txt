@@ -1,0 +1,15 @@
+C
+10
+// route: shop - ship - hsip - haip - happ - app - apps - apphs
+// Test Case for complex input and general similar
+ch[iu]p
+appsh!
+sh[io]p
+shot
+// mid command line test
+stop&
+hi?
+h[sa]ip
+happ
+ppa&
+ap?s
